@@ -17,7 +17,12 @@ Ensure you have the following installed:
 - OpenCV
 - MediaPipe
 - TensorFlow (for model training and inference)
+  
+### NOTE
+Currently it is working on Windows only.
 
 Install the required dependencies:
 ```bash
 pip install opencv-python mediapipe tensorflow
+
+
