@@ -6,7 +6,7 @@ A gesture recognition project using computer vision and machine learning to cont
 
 - **Brightness Control**: Adjusts screen brightness using specific hand gestures.
 - **Volume Control**: Controls system volume with gestures for quick adjustments.
-- **Real-Time Recognition**: Uses the camera feed to detect and respond to gestures instantly.
+- **Real-Time Screenshot**: Uses the camera feed to detect hand gesture and click the screenshot.
 
 ## Getting Started
 
