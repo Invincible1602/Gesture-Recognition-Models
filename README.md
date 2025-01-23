@@ -19,7 +19,7 @@ Ensure you have the following installed:
 - TensorFlow (for model training and inference)
   
 ### NOTE
-Currently it is working on Windows only.
+Screen Brightness Function is working only on Windows.
 
 Install the required dependencies:
 ```bash
